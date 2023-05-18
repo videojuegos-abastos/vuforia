@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="pen" size="1.000000 0.562500" />
+    <ImageTarget name="pencil" size="6.000000 4.488000" />
+    <ImageTarget name="teclat" size="6.000000 4.488000" />
+  </Tracking>
+</QCARConfig>
